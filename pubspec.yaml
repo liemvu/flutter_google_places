@@ -1,14 +1,12 @@
-name: flutter_google_places_hoc081098
-description: Google places autocomplete widgets for flutter. No wrapper, use https://pub.dartlang.org/packages/google_maps_webservice. Better flutter_google_places, updated by @hoc081098
-version: 2.0.0-beta.1
-homepage: https://github.com/hoc081098/flutter_google_places
-repository: https://github.com/hoc081098/flutter_google_places
-funding:
-  - https://www.buymeacoffee.com/hoc081098
+name: flutter_google_places
+description: Google places autocomplete widgets for flutter. No wrapper, use https://pub.dartlang.org/packages/google_maps_webservice.
+version: 3.0.0
+homepage: 
+repository: 
+
 
 topics:
   - rxdart
-  - hoc081098
   - google-places
   - google-places-autocomplete
   - flutter-google-places
@@ -20,7 +18,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  google_api_headers: ^2.0.0
+  google_api_headers: ^3.3.0
   http: ^1.0.0
   rxdart: ^0.27.7
   rxdart_ext: ^0.2.9
@@ -28,16 +26,16 @@ dependencies:
   collection: ^1.17.1
   flutter_bloc_pattern: ^2.3.0
   json_annotation: ^4.8.1
-  meta: ^1.7.0
+  meta: ^1.10.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.1
+  flutter_lints: ^3.0.1
   build_runner: ^2.4.5
   json_serializable: ^6.7.0
 
 flutter:
   assets:
-    - packages/flutter_google_places_hoc081098/assets/google_black.png
-    - packages/flutter_google_places_hoc081098/assets/google_white.png
+    - packages/flutter_google_places/assets/google_black.png
+    - packages/flutter_google_places/assets/google_white.png

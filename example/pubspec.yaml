@@ -10,9 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_google_places_hoc081098:
+  flutter_google_places:
     path: ../
-  google_api_headers: ^2.0.0
+  google_api_headers: any
   uuid: ^3.0.7
 
 dev_dependencies:

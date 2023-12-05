@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_google_places_hoc081098/flutter_google_places_hoc081098.dart';
-import 'package:flutter_google_places_hoc081098/google_maps_webservice_places.dart';
+import 'package:flutter_google_places/flutter_google_places.dart';
+import 'package:flutter_google_places/google_maps_webservice_places.dart';
 import 'package:google_api_headers/google_api_headers.dart';
 
 import 'custom.dart';

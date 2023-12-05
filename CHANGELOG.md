@@ -1,4 +1,4 @@
-# flutter_google_places_hoc081098 changelog
+# flutter_google_places changelog
 
 ## 2.0.0-beta.1 - Sep 30, 2023
 
@@ -86,7 +86,7 @@
 
 ## 1.0.0-nullsafety.0 - Mar 18, 2021
 
-- Initial version of `flutter_google_places_hoc081098`. Forked
+- Initial version of `flutter_google_places`. Forked
   from [fluttercommunity/flutter_google_places](https://github.com/fluttercommunity/flutter_google_places).
 - Opt into **null safety**.
 - Sdk constraints: `>=2.12.0 <3.0.0`.
